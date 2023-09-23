@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TryToLearnProgramming/gitops
+    repoURL: https://github.com/dipoesan/gitops
     path: deployments/node-app
     targetRevision: k-argo
     directory:
