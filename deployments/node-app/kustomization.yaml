@@ -12,7 +12,7 @@ patchesStrategicMerge:
   - be-deploy.yaml
   - fe-deploy.yaml
 images:
-  - name: sami203/e-commerce-front-end
-    newTag: f61d2aa3b7ef167fe160100b033a42676b91950d
-  - name: sami203/e-commerce-back-end
-    newTag: f0bf164d54594a1c94297b45367e396994b15d46
+  - name: opid/front-end-demo
+    newTag: bf7a07910a7056c359619680f72425c09fa2b1a5
+  - name: opid/back-end-demo
+    newTag: e73fcc6f70169e65accbfeeabb7b6ee8d4937202
