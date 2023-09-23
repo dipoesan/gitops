@@ -15,4 +15,4 @@ images:
   - name: sami203/e-commerce-front-end
     newTag: 23483951f7313b0b73d575bb5bb29aaef2e08ae4
   - name: sami203/e-commerce-back-end
-    newTag: 53fa7760c55a503a1d7932cff8047a593bc5da04
+    newTag: 0dcc076b6f4312c1719cfa3aac24f2c1aa6c5326
